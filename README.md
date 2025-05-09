@@ -12,7 +12,7 @@ This is a simple personal portfolio website built using **HTML** and **CSS**, fe
 
 ### 🚀 Live Preview
 
-[View Portfolio](#) *(Replace with your live site link)*
+https://swathi16-11.github.io/portfolio-simple-website/
 
 ### 🛠️ Built With
 
